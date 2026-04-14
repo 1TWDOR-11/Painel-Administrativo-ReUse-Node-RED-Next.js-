@@ -48,4 +48,4 @@ Além disso:
 ### 🔗 Link do repositório no GitHub
 
 ```text
-https://github.com/seu-usuario/reuse-node-red-admin
+https://github.com/1TWDOR-11/Painel-Administrativo-ReUse-Node-RED-Next.js-
